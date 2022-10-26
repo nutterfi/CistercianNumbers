@@ -11,6 +11,7 @@
 		29000D8F2908DD4B00A2468E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29000D8E2908DD4B00A2468E /* ContentView.swift */; };
 		29000D912908DD4C00A2468E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29000D902908DD4C00A2468E /* Assets.xcassets */; };
 		29000D942908DD4C00A2468E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 29000D932908DD4C00A2468E /* Preview Assets.xcassets */; };
+		29000D9B2908DEC900A2468E /* CistercianNumber.swift in Sources */ = {isa = PBXBuildFile; fileRef = 29000D9A2908DEC900A2468E /* CistercianNumber.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		29000D8E2908DD4B00A2468E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		29000D902908DD4C00A2468E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		29000D932908DD4C00A2468E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		29000D9A2908DEC900A2468E /* CistercianNumber.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CistercianNumber.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +53,7 @@
 		29000D8B2908DD4B00A2468E /* CistercianNumbers */ = {
 			isa = PBXGroup;
 			children = (
+				29000D9A2908DEC900A2468E /* CistercianNumber.swift */,
 				29000D8C2908DD4B00A2468E /* CistercianNumbersApp.swift */,
 				29000D8E2908DD4B00A2468E /* ContentView.swift */,
 				29000D902908DD4C00A2468E /* Assets.xcassets */,
@@ -139,6 +142,7 @@
 			files = (
 				29000D8F2908DD4B00A2468E /* ContentView.swift in Sources */,
 				29000D8D2908DD4B00A2468E /* CistercianNumbersApp.swift in Sources */,
+				29000D9B2908DEC900A2468E /* CistercianNumber.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
